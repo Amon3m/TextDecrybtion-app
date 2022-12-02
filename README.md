@@ -1,4 +1,4 @@
-# Textdecrybtion-app
+# TextDecrybtion-app
 
 .python build
 
