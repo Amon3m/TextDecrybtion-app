@@ -1,4 +1,4 @@
-# TextDecrybtion-app
+# TextDecryption-app
 
 .python build
 
